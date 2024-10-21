@@ -5,6 +5,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "津巴布韦",
+				"center": [31.05, -17.83],
+				"centroid": [29.89, -19.02],
 				"full_name": "津巴布韦共和国",
 				"iso_a2": "ZW",
 				"iso_a3": "ZWE",
@@ -47,6 +49,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "赞比亚",
+				"center": [27.89, -13.48],
+				"centroid": [27.79, -14.61],
 				"full_name": "赞比亚共和国",
 				"iso_a2": "ZM",
 				"iso_a3": "ZMB",
@@ -108,6 +112,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "也门",
+				"center": [44.22, 15.57],
+				"centroid": [47.58, 15.94],
 				"full_name": "也门共和国",
 				"iso_a2": "YE",
 				"iso_a3": "YEM",
@@ -161,6 +167,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "越南",
+				"center": [108.28, 14.06],
+				"centroid": [107.77, 13.96],
 				"full_name": "越南社会主义共和国",
 				"iso_a2": "VN",
 				"iso_a3": "VNM",
@@ -258,6 +266,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "委内瑞拉",
+				"center": [-66.18, 7.12],
+				"centroid": [-66.06, 6.43],
 				"full_name": "委内瑞拉玻利瓦尔共和国",
 				"iso_a2": "VE",
 				"iso_a3": "VEN",
@@ -358,6 +368,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "梵蒂冈",
+				"center": [12.45, 41.9],
+				"centroid": [12.45, 41.9],
 				"full_name": "梵蒂冈城国",
 				"iso_a2": "VA",
 				"iso_a3": "VAT",
@@ -379,6 +391,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "瓦努阿图",
+				"center": [166.92, -15.37],
+				"centroid": [166.92, -15.37],
 				"full_name": "瓦努阿图共和国",
 				"iso_a2": "VU",
 				"iso_a3": "VUT",
@@ -455,6 +469,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "乌兹别克斯坦",
+				"center": [64.38, 41.77],
+				"centroid": [64.38, 41.77],
 				"full_name": "乌兹别克斯坦共和国",
 				"iso_a2": "UZ",
 				"iso_a3": "UZB",
@@ -525,6 +541,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "乌拉圭",
+				"center": [-55.77, -32.82],
+				"centroid": [-55.77, -33.03],
 				"full_name": "乌拉圭东岸共和国",
 				"iso_a2": "UY",
 				"iso_a3": "URY",
@@ -561,6 +579,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "密克罗尼西亚",
+				"center": [158.15, 6.57],
+				"centroid": [158.15, 6.57],
 				"full_name": "密克罗尼西亚联邦",
 				"iso_a2": "FM",
 				"iso_a3": "FSM",
@@ -582,6 +602,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马绍尔群岛",
+				"center": [170.74, 7.08],
+				"centroid": [170.74, 7.08],
 				"full_name": "马绍尔群岛共和国",
 				"iso_a2": "MH",
 				"iso_a3": "MHL",
@@ -604,6 +626,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "北马里亚纳群岛",
+				"center": [145.56, 15.08],
+				"centroid": [145.56, 15.08],
 				"full_name": "北马里亚纳群岛联邦（美国）",
 				"iso_a2": "MP",
 				"iso_a3": "MNP",
@@ -625,6 +649,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "美属维尔京群岛",
+				"center": [-64.86, 17.73],
+				"centroid": [-64.86, 17.73],
 				"full_name": "美属维尔京群岛",
 				"iso_a2": "VI",
 				"iso_a3": "VIR",
@@ -646,6 +672,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "关岛",
+				"center": [144.68, 13.28],
+				"centroid": [144.68, 13.28],
 				"full_name": "关岛",
 				"iso_a2": "GU",
 				"iso_a3": "GUM",
@@ -667,6 +695,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "美属萨摩亚",
+				"center": [-170.73, -14.25],
+				"centroid": [-170.73, -14.25],
 				"full_name": "美属萨摩亚",
 				"iso_a2": "AS",
 				"iso_a3": "ASM",
@@ -688,6 +718,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "波多黎各",
+				"center": [-66.12, 18.22],
+				"centroid": [-66.12, 18.22],
 				"full_name": "波多黎各自由邦",
 				"iso_a2": "PR",
 				"iso_a3": "PRI",
@@ -711,6 +743,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "美国",
+				"center": [-98.58, 39.76],
+				"centroid": [-98.58, 39.76],
 				"full_name": "美利坚合众国",
 				"iso_a2": "US",
 				"iso_a3": "USA",
@@ -1467,6 +1501,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "南乔治亚和南桑威奇群岛",
+				"center": [-36.58, -54.44],
+				"centroid": [-36.58, -54.44],
 				"full_name": "南乔治亚和南桑威奇群岛（英国）",
 				"iso_a2": "GS",
 				"iso_a3": "SGS",
@@ -1490,6 +1526,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "英属印度洋领地",
+				"center": [71.5, -7.33],
+				"centroid": [71.5, -7.33],
 				"full_name": "英属印度洋领地",
 				"iso_a2": "IO",
 				"iso_a3": "IOT",
@@ -1513,6 +1551,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣赫勒拿",
+				"center": [-5.72, -15.96],
+				"centroid": [-5.72, -15.96],
 				"full_name": "圣赫勒拿岛（英国）",
 				"iso_a2": "SH",
 				"iso_a3": "SHN",
@@ -1534,6 +1574,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "皮特凯恩群岛",
+				"center": [-128.3, -24.67],
+				"centroid": [-128.3, -24.67],
 				"full_name": "皮特凯恩群岛（英国）",
 				"iso_a2": "PN",
 				"iso_a3": "PCN",
@@ -1555,6 +1597,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "安圭拉",
+				"center": [-63.07, 18.23],
+				"centroid": [-63.07, 18.23],
 				"full_name": "安圭拉",
 				"iso_a2": "AI",
 				"iso_a3": "AIA",
@@ -1576,6 +1620,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马尔维纳斯群岛（福克兰）",
+				"center": [-59.03, -51.72],
+				"centroid": [-59.03, -51.72],
 				"full_name": "马尔维纳斯群岛（福克兰）",
 				"iso_a2": "FK",
 				"iso_a3": "FLK",
@@ -1617,6 +1663,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "开曼群岛",
+				"center": [-80.9, 19.29],
+				"centroid": [-80.9, 19.29],
 				"full_name": "开曼群岛",
 				"iso_a2": "KY",
 				"iso_a3": "CYM",
@@ -1638,6 +1686,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "百慕大",
+				"center": [-64.75, 32.31],
+				"centroid": [-64.75, 32.31],
 				"full_name": "百慕大",
 				"iso_a2": "BM",
 				"iso_a3": "BMU",
@@ -1659,6 +1709,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "英属维尔京群岛",
+				"center": [-64.37, 18.73],
+				"centroid": [-64.37, 18.73],
 				"full_name": "英属维尔京群岛",
 				"iso_a2": "VG",
 				"iso_a3": "VGB",
@@ -1680,6 +1732,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "特克斯和凯科斯群岛",
+				"center": [-71.58, 21.68],
+				"centroid": [-71.58, 21.68],
 				"full_name": "特克斯和凯科斯群岛",
 				"iso_a2": "TC",
 				"iso_a3": "TCA",
@@ -1701,6 +1755,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "蒙特塞拉特",
+				"center": [-62.22, 16.74],
+				"centroid": [-62.22, 16.74],
 				"full_name": "蒙特塞拉特",
 				"iso_a2": "MS",
 				"iso_a3": "MSR",
@@ -1722,6 +1778,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "泽西岛",
+				"center": [-2.12, 49.19],
+				"centroid": [-2.12, 49.19],
 				"full_name": "泽西岛",
 				"iso_a2": "JE",
 				"iso_a3": "JEY",
@@ -1743,6 +1801,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "根西岛",
+				"center": [-2.55, 49.46],
+				"centroid": [-2.55, 49.46],
 				"full_name": "根西岛",
 				"iso_a2": "GG",
 				"iso_a3": "GGY",
@@ -1764,6 +1824,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马恩岛",
+				"center": [-4.51, 54.23],
+				"centroid": [-4.51, 54.23],
 				"full_name": "马恩岛",
 				"iso_a2": "IM",
 				"iso_a3": "IMN",
@@ -1785,6 +1847,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "英国",
+				"center": [-2.95, 54.76],
+				"centroid": [-2.95, 54.76],
 				"full_name": "大不列颠及北爱尔兰联合王国",
 				"iso_a2": "GB",
 				"iso_a3": "GBR",
@@ -1930,6 +1994,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿联酋",
+				"center": [53.85, 23.42],
+				"centroid": [54.22, 23.68],
 				"full_name": "阿拉伯联合酋长国",
 				"iso_a2": "AE",
 				"iso_a3": "ARE",
@@ -1962,6 +2028,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "乌克兰",
+				"center": [31.17, 48.38],
+				"centroid": [31.17, 48.38],
 				"full_name": "乌克兰",
 				"iso_a2": "UA",
 				"iso_a3": "UKR",
@@ -2044,6 +2112,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "乌干达",
+				"center": [32.3, 1.28],
+				"centroid": [32.3, 1.28],
 				"full_name": "乌干达共和国",
 				"iso_a2": "UG",
 				"iso_a3": "UGA",
@@ -2079,6 +2149,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "土库曼斯坦",
+				"center": [59.36, 38.97],
+				"centroid": [60.87, 39.1],
 				"full_name": "土库曼斯坦",
 				"iso_a2": "TM",
 				"iso_a3": "TKM",
@@ -2149,6 +2221,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "土耳其",
+				"center": [35.93, 38.96],
+				"centroid": [35.93, 38.96],
 				"full_name": "土耳其共和国",
 				"iso_a2": "TR",
 				"iso_a3": "TUR",
@@ -2252,6 +2326,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "突尼斯",
+				"center": [9.37, 33.89],
+				"centroid": [9.37, 33.89],
 				"full_name": "突尼斯共和国",
 				"iso_a2": "TN",
 				"iso_a3": "TUN",
@@ -2289,6 +2365,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "特立尼达和多巴哥",
+				"center": [-61.26, 10.65],
+				"centroid": [-61.26, 10.65],
 				"full_name": "特立尼达和多巴哥共和国",
 				"iso_a2": "TT",
 				"iso_a3": "TTO",
@@ -2312,6 +2390,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "汤加",
+				"center": [-174.8, -20.46],
+				"centroid": [-174.8, -20.46],
 				"full_name": "汤加王国",
 				"iso_a2": "TO",
 				"iso_a3": "TON",
@@ -2333,6 +2413,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "多哥",
+				"center": [0.86, 8.56],
+				"centroid": [0.86, 8.56],
 				"full_name": "多哥共和国",
 				"iso_a2": "TG",
 				"iso_a3": "TGO",
@@ -2367,6 +2449,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "东帝汶",
+				"center": [125.93, -8.49],
+				"centroid": [125.93, -8.49],
 				"full_name": "东帝汶民主共和国",
 				"iso_a2": "TL",
 				"iso_a3": "TLS",
@@ -2401,6 +2485,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "泰国",
+				"center": [100.82, 14.05],
+				"centroid": [100.82, 13.16],
 				"full_name": "泰王国",
 				"iso_a2": "TH",
 				"iso_a3": "THA",
@@ -2487,6 +2573,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "坦桑尼亚",
+				"center": [34.89, -6.27],
+				"centroid": [34.89, -6.27],
 				"full_name": "坦桑尼亚联合共和国",
 				"iso_a2": "TZ",
 				"iso_a3": "TZA",
@@ -2557,6 +2645,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "塔吉克斯坦",
+				"center": [71.03, 38.56],
+				"centroid": [71.03, 38.56],
 				"full_name": "塔吉克斯坦共和国",
 				"iso_a2": "TJ",
 				"iso_a3": "TJK",
@@ -2619,6 +2709,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "叙利亚",
+				"center": [38.03, 35.01],
+				"centroid": [38.03, 35.01],
 				"full_name": "阿拉伯叙利亚共和国",
 				"iso_a2": "SY",
 				"iso_a3": "SYR",
@@ -2657,6 +2749,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "瑞士",
+				"center": [8.22, 46.82],
+				"centroid": [8.22, 46.82],
 				"full_name": "瑞士联邦",
 				"iso_a2": "CH",
 				"iso_a3": "CHE",
@@ -2692,6 +2786,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "瑞典",
+				"center": [18.07, 61.52],
+				"centroid": [18.07, 61.52],
 				"full_name": "瑞典",
 				"iso_a2": "SE",
 				"iso_a3": "SWE",
@@ -2765,6 +2861,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "斯威士兰",
+				"center": [31.47, -26.57],
+				"centroid": [31.47, -26.57],
 				"full_name": "斯威士兰王国",
 				"iso_a2": "SZ",
 				"iso_a3": "SWZ",
@@ -2789,6 +2887,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "苏里南",
+				"center": [-55.97, 3.92],
+				"centroid": [-55.97, 3.92],
 				"full_name": "苏里南共和国",
 				"iso_a2": "SR",
 				"iso_a3": "SUR",
@@ -2828,6 +2928,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "南苏丹",
+				"center": [31.35, 7.8],
+				"centroid": [31.35, 7.8],
 				"full_name": "南苏丹共和国",
 				"iso_a2": "SS",
 				"iso_a3": "SSD",
@@ -2888,6 +2990,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "苏丹",
+				"center": [30.22, 12.86],
+				"centroid": [30.22, 12.86],
 				"full_name": "苏丹共和国",
 				"iso_a2": "SD",
 				"iso_a3": "SDN",
@@ -2960,6 +3064,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "斯里兰卡",
+				"center": [80.7, 7.56],
+				"centroid": [80.7, 7.56],
 				"full_name": "斯里兰卡民主社会主义共和国",
 				"iso_a2": "LK",
 				"iso_a3": "LKA",
@@ -2989,6 +3095,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "西班牙",
+				"center": [-3.47, 40.46],
+				"centroid": [-3.47, 40.46],
 				"full_name": "西班牙王国",
 				"iso_a2": "ES",
 				"iso_a3": "ESP",
@@ -3093,6 +3201,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "韩国",
+				"center": [127.88, 36.39],
+				"centroid": [127.88, 36.39],
 				"full_name": "大韩民国",
 				"iso_a2": "KR",
 				"iso_a3": "KOR",
@@ -3150,6 +3260,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "南非",
+				"center": [25.05, -29.14],
+				"centroid": [25.05, -29.14],
 				"full_name": "南非共和国",
 				"iso_a2": "ZA",
 				"iso_a3": "ZAF",
@@ -3226,6 +3338,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "索马里",
+				"center": [45.8, 5.15],
+				"centroid": [45.8, 5.15],
 				"full_name": "索马里联邦共和国",
 				"iso_a2": "SO",
 				"iso_a3": "SOM",
@@ -3265,6 +3379,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "索马里兰",
+				"center": [46.87, 9.72],
+				"centroid": [46.87, 9.72],
 				"full_name": "索马里兰",
 				"iso_a2": "-99",
 				"iso_a3": "-99",
@@ -3296,6 +3412,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "所罗门群岛",
+				"center": [159.64, -9.62],
+				"centroid": [159.64, -9.62],
 				"full_name": "所罗门群岛",
 				"iso_a2": "SB",
 				"iso_a3": "SLB",
@@ -3382,6 +3500,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "斯洛伐克",
+				"center": [19.5, 48.67],
+				"centroid": [19.5, 48.67],
 				"full_name": "斯洛伐克共和国",
 				"iso_a2": "SK",
 				"iso_a3": "SVK",
@@ -3415,6 +3535,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "斯洛文尼亚",
+				"center": [14.51, 46.12],
+				"centroid": [14.51, 46.12],
 				"full_name": "斯洛文尼亚共和国",
 				"iso_a2": "SI",
 				"iso_a3": "SVN",
@@ -3443,6 +3565,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "新加坡",
+				"center": [103.76, 1.35],
+				"centroid": [103.76, 1.35],
 				"full_name": "新加坡共和国",
 				"iso_a2": "SG",
 				"iso_a3": "SGP",
@@ -3464,6 +3588,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "塞拉利昂",
+				"center": [-11.77, 8.46],
+				"centroid": [-11.77, 8.46],
 				"full_name": "塞拉利昂共和国",
 				"iso_a2": "SL",
 				"iso_a3": "SLE",
@@ -3508,6 +3634,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "塞舌尔",
+				"center": [55.3, -4.68],
+				"centroid": [55.3, -4.68],
 				"full_name": "塞舌尔共和国",
 				"iso_a2": "SC",
 				"iso_a3": "SYC",
@@ -3529,6 +3657,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "塞尔维亚",
+				"center": [20.55, 44.21],
+				"centroid": [20.55, 44.21],
 				"full_name": "塞尔维亚共和国",
 				"iso_a2": "RS",
 				"iso_a3": "SRB",
@@ -3571,6 +3701,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "塞内加尔",
+				"center": [-14.47, 14.5],
+				"centroid": [-14.47, 14.5],
 				"full_name": "塞内加尔共和国",
 				"iso_a2": "SN",
 				"iso_a3": "SEN",
@@ -3616,6 +3748,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "沙特阿拉伯",
+				"center": [44.53, 24.09],
+				"centroid": [44.53, 24.09],
 				"full_name": "沙特阿拉伯王国",
 				"iso_a2": "SA",
 				"iso_a3": "SAU",
@@ -3691,6 +3825,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣多美和普林西比",
+				"center": [6.58, 0.3],
+				"centroid": [6.58, 0.3],
 				"full_name": "圣多美和普林西比民主共和国",
 				"iso_a2": "ST",
 				"iso_a3": "STP",
@@ -3712,6 +3848,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣马力诺",
+				"center": [12.42, 43.55],
+				"centroid": [12.42, 43.55],
 				"full_name": "圣马力诺共和国",
 				"iso_a2": "SM",
 				"iso_a3": "SMR",
@@ -3733,6 +3871,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "萨摩亚",
+				"center": [-172.24, -13.56],
+				"centroid": [-172.24, -13.56],
 				"full_name": "萨摩亚独立国",
 				"iso_a2": "WS",
 				"iso_a3": "WSM",
@@ -3754,6 +3894,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣文森特和格林纳丁斯",
+				"center": [-61.14, 13.25],
+				"centroid": [-61.14, 13.25],
 				"full_name": "圣文森特和格林纳丁斯",
 				"iso_a2": "VC",
 				"iso_a3": "VCT",
@@ -3775,6 +3917,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣卢西亚",
+				"center": [-60.97, 13.89],
+				"centroid": [-60.97, 13.89],
 				"full_name": "圣卢西亚",
 				"iso_a2": "LC",
 				"iso_a3": "LCA",
@@ -3796,6 +3940,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣基茨和尼维斯",
+				"center": [-83.77, 17.29],
+				"centroid": [-83.77, 17.29],
 				"full_name": "圣基茨和尼维斯联邦",
 				"iso_a2": "KN",
 				"iso_a3": "KNA",
@@ -3817,6 +3963,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "卢旺达",
+				"center": [29.93, -1.98],
+				"centroid": [29.93, -1.98],
 				"full_name": "卢旺达共和国",
 				"iso_a2": "RW",
 				"iso_a3": "RWA",
@@ -3844,6 +3992,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "俄罗斯",
+				"center": [96.42, 58.68],
+				"centroid": [96.42, 58.68],
 				"full_name": "俄罗斯联邦",
 				"iso_a2": "RU",
 				"iso_a3": "RUS",
@@ -4910,6 +5060,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "罗马尼亚",
+				"center": [24.97, 45.84],
+				"centroid": [24.97, 45.84],
 				"full_name": "罗马尼亚",
 				"iso_a2": "RO",
 				"iso_a3": "ROU",
@@ -4950,6 +5102,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "卡塔尔",
+				"center": [51.18, 25.3],
+				"centroid": [51.18, 25.3],
 				"full_name": "卡塔尔国",
 				"iso_a2": "QA",
 				"iso_a3": "QAT",
@@ -4974,6 +5128,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "葡萄牙",
+				"center": [-8.13, 39.4],
+				"centroid": [-8.13, 39.4],
 				"full_name": "葡萄牙共和国",
 				"iso_a2": "PT",
 				"iso_a3": "PRT",
@@ -5028,6 +5184,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "波兰",
+				"center": [19.38, 52.14],
+				"centroid": [19.38, 52.14],
 				"full_name": "波兰共和国",
 				"iso_a2": "PL",
 				"iso_a3": "POL",
@@ -5083,6 +5241,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "菲律宾",
+				"center": [121.67, 12.46],
+				"centroid": [121.67, 12.46],
 				"full_name": "菲律宾共和国",
 				"iso_a2": "PH",
 				"iso_a3": "PHL",
@@ -5345,6 +5505,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "秘鲁",
+				"center": [-74.28, -8.62],
+				"centroid": [-74.28, -8.62],
 				"full_name": "秘鲁共和国",
 				"iso_a2": "PE",
 				"iso_a3": "PER",
@@ -5428,6 +5590,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴拉圭",
+				"center": [-58.42, -22.14],
+				"centroid": [-58.42, -22.14],
 				"full_name": "巴拉圭共和国",
 				"iso_a2": "PY",
 				"iso_a3": "PRY",
@@ -5469,6 +5633,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴布亚新几内亚",
+				"center": [143.95, -5.73],
+				"centroid": [143.95, -5.73],
 				"full_name": "巴布亚新几内亚独立国",
 				"iso_a2": "PG",
 				"iso_a3": "PNG",
@@ -5614,6 +5780,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴拿马",
+				"center": [-80.11, 8.96],
+				"centroid": [-80.11, 8.96],
 				"full_name": "巴拿马共和国",
 				"iso_a2": "PA",
 				"iso_a3": "PAN",
@@ -5664,6 +5832,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "帕劳",
+				"center": [134.47, 7.29],
+				"centroid": [134.47, 7.29],
 				"full_name": "帕劳共和国",
 				"iso_a2": "PW",
 				"iso_a3": "PLW",
@@ -5685,6 +5855,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴基斯坦",
+				"center": [69.35, 29.97],
+				"centroid": [69.35, 29.97],
 				"full_name": "巴基斯坦伊斯兰共和国",
 				"iso_a2": "PK",
 				"iso_a3": "PAK",
@@ -5771,6 +5943,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿曼",
+				"center": [56.09, 20.6],
+				"centroid": [56.09, 20.6],
 				"full_name": "阿曼苏丹国",
 				"iso_a2": "OM",
 				"iso_a3": "OMN",
@@ -5825,6 +5999,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "挪威",
+				"center": [8.07, 60.28],
+				"centroid": [8.07, 60.28],
 				"full_name": "挪威王国",
 				"iso_a2": "NO",
 				"iso_a3": "NOR",
@@ -6096,6 +6272,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "朝鲜",
+				"center": [125.45, 39.21],
+				"centroid": [125.45, 39.21],
 				"full_name": "朝鲜民主主义人民共和国",
 				"iso_a2": "KP",
 				"iso_a3": "PRK",
@@ -6143,6 +6321,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "尼日利亚",
+				"center": [8.07, 9.58],
+				"centroid": [8.07, 9.58],
 				"full_name": "尼日利亚联邦共和国",
 				"iso_a2": "NG",
 				"iso_a3": "NGA",
@@ -6211,6 +6391,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "尼日尔",
+				"center": [9.29, 15.47],
+				"centroid": [9.29, 15.47],
 				"full_name": "尼日尔共和国",
 				"iso_a2": "NE",
 				"iso_a3": "NER",
@@ -6271,6 +6453,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "尼加拉瓜",
+				"center": [-85.07, 12.86],
+				"centroid": [-85.07, 12.86],
 				"full_name": "尼加拉瓜共和国",
 				"iso_a2": "NI",
 				"iso_a3": "NIC",
@@ -6310,6 +6494,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "新西兰",
+				"center": [174.58, -40.83],
+				"centroid": [174.58, -40.83],
 				"full_name": "新西兰",
 				"iso_a2": "NZ",
 				"iso_a3": "NZL",
@@ -6430,6 +6616,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "纽埃",
+				"center": [-169.67, -19.05],
+				"centroid": [-169.67, -19.05],
 				"full_name": "纽埃",
 				"iso_a2": "NU",
 				"iso_a3": "NIU",
@@ -6451,6 +6639,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "库克群岛",
+				"center": [-159.78, -12.05],
+				"centroid": [-159.78, -12.05],
 				"full_name": "库克群岛",
 				"iso_a2": "CK",
 				"iso_a3": "COK",
@@ -6472,6 +6662,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "荷兰",
+				"center": [4.88, 52.14],
+				"centroid": [4.88, 52.14],
 				"full_name": "荷兰王国",
 				"iso_a2": "NL",
 				"iso_a3": "NLD",
@@ -6516,6 +6708,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿鲁巴",
+				"center": [-70.04, 12.51],
+				"centroid": [-70.04, 12.51],
 				"full_name": "阿鲁巴（荷兰）",
 				"iso_a2": "AW",
 				"iso_a3": "ABW",
@@ -6537,6 +6731,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "库拉索",
+				"center": [-68.94, 12.15],
+				"centroid": [-68.94, 12.15],
 				"full_name": "库拉索岛（荷兰）",
 				"iso_a2": "CW",
 				"iso_a3": "CUW",
@@ -6558,6 +6754,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "尼泊尔",
+				"center": [83.95, 28.21],
+				"centroid": [83.95, 28.21],
 				"full_name": "尼泊尔",
 				"iso_a2": "NP",
 				"iso_a3": "NPL",
@@ -6594,6 +6792,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "瑙鲁",
+				"center": [166.93, -0.52],
+				"centroid": [166.93, -0.52],
 				"full_name": "瑙鲁共和国",
 				"iso_a2": "NR",
 				"iso_a3": "NRU",
@@ -6615,6 +6815,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "纳米比亚",
+				"center": [17.08, -22.46],
+				"centroid": [17.08, -22.46],
 				"full_name": "纳米比亚共和国",
 				"iso_a2": "NA",
 				"iso_a3": "NAM",
@@ -6660,6 +6862,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "莫桑比克",
+				"center": [35.53, -13.96],
+				"centroid": [35.53, -13.96],
 				"full_name": "莫桑比克共和国",
 				"iso_a2": "MZ",
 				"iso_a3": "MOZ",
@@ -6731,6 +6935,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "摩洛哥",
+				"center": [-7.09, 32.59],
+				"centroid": [-7.09, 32.59],
 				"full_name": "摩洛哥王国",
 				"iso_a2": "MA",
 				"iso_a3": "MAR",
@@ -6791,6 +6997,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "西撒哈拉",
+				"center": [-12.21, 24.21],
+				"centroid": [-12.21, 24.21],
 				"full_name": "西撒哈拉",
 				"iso_a2": "EH",
 				"iso_a3": "ESH",
@@ -6828,6 +7036,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "黑山",
+				"center": [19.24, 42.72],
+				"centroid": [19.24, 42.72],
 				"full_name": "黑山",
 				"iso_a2": "ME",
 				"iso_a3": "MNE",
@@ -6854,6 +7064,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "蒙古",
+				"center": [103.85, 46.83],
+				"centroid": [103.85, 46.83],
 				"full_name": "蒙古国",
 				"iso_a2": "MN",
 				"iso_a3": "MNG",
@@ -6931,6 +7143,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "摩尔多瓦",
+				"center": [28.41, 47.19],
+				"centroid": [28.41, 47.19],
 				"full_name": "摩尔多瓦共和国",
 				"iso_a2": "MD",
 				"iso_a3": "MDA",
@@ -6958,6 +7172,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "摩纳哥",
+				"center": [7.4, 43.73],
+				"centroid": [7.4, 43.73],
 				"full_name": "摩纳哥公国",
 				"iso_a2": "MC",
 				"iso_a3": "MCO",
@@ -6979,6 +7195,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "墨西哥",
+				"center": [-102.55, 23.97],
+				"centroid": [-102.55, 23.97],
 				"full_name": "墨西哥合众国",
 				"iso_a2": "MX",
 				"iso_a3": "MEX",
@@ -7137,6 +7355,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "毛里求斯",
+				"center": [63.4, -20.28],
+				"centroid": [63.4, -20.28],
 				"full_name": "毛里求斯共和国",
 				"iso_a2": "MU",
 				"iso_a3": "MUS",
@@ -7158,6 +7378,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "毛里塔尼亚",
+				"center": [-10.34, 20.26],
+				"centroid": [-10.34, 20.26],
 				"full_name": "毛里塔尼亚伊斯兰共和国",
 				"iso_a2": "MR",
 				"iso_a3": "MRT",
@@ -7207,6 +7429,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马耳他",
+				"center": [14.21, 35.91],
+				"centroid": [14.21, 35.91],
 				"full_name": "马耳他共和国",
 				"iso_a2": "MT",
 				"iso_a3": "MLT",
@@ -7228,6 +7452,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马里",
+				"center": [-3.54, 17.35],
+				"centroid": [-3.54, 17.35],
 				"full_name": "马里共和国",
 				"iso_a2": "ML",
 				"iso_a3": "MLI",
@@ -7304,6 +7530,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马尔代夫",
+				"center": [73.49, 3.2],
+				"centroid": [73.49, 3.2],
 				"full_name": "马尔代夫共和国",
 				"iso_a2": "MV",
 				"iso_a3": "MDV",
@@ -7325,6 +7553,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马来西亚",
+				"center": [109.63, 4.21],
+				"centroid": [109.63, 4.21],
 				"full_name": "马来西亚",
 				"iso_a2": "MY",
 				"iso_a3": "MYS",
@@ -7417,6 +7647,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马拉维",
+				"center": [34.3, -13.26],
+				"centroid": [34.3, -13.26],
 				"full_name": "马拉维共和国",
 				"iso_a2": "MW",
 				"iso_a3": "MWI",
@@ -7462,6 +7694,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "马达加斯加",
+				"center": [46.77, -18.84],
+				"centroid": [46.77, -18.84],
 				"full_name": "马达加斯加共和国",
 				"iso_a2": "MG",
 				"iso_a3": "MDG",
@@ -7522,6 +7756,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "北马其顿",
+				"center": [21.7, 41.61],
+				"centroid": [21.7, 41.61],
 				"full_name": "北马其顿共和国",
 				"iso_a2": "MK",
 				"iso_a3": "MKD",
@@ -7547,6 +7783,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "卢森堡",
+				"center": [6.09, 49.47],
+				"centroid": [6.09, 49.47],
 				"full_name": "卢森堡大公国",
 				"iso_a2": "LU",
 				"iso_a3": "LUX",
@@ -7570,6 +7808,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "立陶宛",
+				"center": [23.88, 55.17],
+				"centroid": [23.88, 55.17],
 				"full_name": "立陶宛共和国",
 				"iso_a2": "LT",
 				"iso_a3": "LTU",
@@ -7613,6 +7853,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "列支敦士登",
+				"center": [9.53, 47.14],
+				"centroid": [9.53, 47.14],
 				"full_name": "列支敦士登公国",
 				"iso_a2": "LI",
 				"iso_a3": "LIE",
@@ -7634,6 +7876,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "利比亚",
+				"center": [18.0, 26.34],
+				"centroid": [18.0, 26.34],
 				"full_name": "利比亚国",
 				"iso_a2": "LY",
 				"iso_a3": "LBY",
@@ -7693,6 +7937,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "利比里亚",
+				"center": [-9.3, 6.39],
+				"centroid": [-9.3, 6.39],
 				"full_name": "利比里亚共和国",
 				"iso_a2": "LR",
 				"iso_a3": "LBR",
@@ -7724,6 +7970,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "莱索托",
+				"center": [28.17, -29.57],
+				"centroid": [28.17, -29.57],
 				"full_name": "莱索托王国",
 				"iso_a2": "LS",
 				"iso_a3": "LSO",
@@ -7751,6 +7999,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "黎巴嫩",
+				"center": [35.48, 33.84],
+				"centroid": [35.48, 33.84],
 				"full_name": "黎巴嫩共和国",
 				"iso_a2": "LB",
 				"iso_a3": "LBN",
@@ -7775,6 +8025,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "拉脱维亚",
+				"center": [24.91, 56.89],
+				"centroid": [24.91, 56.89],
 				"full_name": "拉脱维亚共和国",
 				"iso_a2": "LV",
 				"iso_a3": "LVA",
@@ -7811,6 +8063,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "老挝",
+				"center": [102.7, 18.04],
+				"centroid": [102.7, 18.04],
 				"full_name": "老挝人民民主共和国",
 				"iso_a2": "LA",
 				"iso_a3": "LAO",
@@ -7876,6 +8130,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "吉尔吉斯斯坦",
+				"center": [74.51, 41.46],
+				"centroid": [74.51, 41.46],
 				"full_name": "吉尔吉斯共和国",
 				"iso_a2": "KG",
 				"iso_a3": "KGZ",
@@ -7927,6 +8183,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "科威特",
+				"center": [47.58, 29.3],
+				"centroid": [47.58, 29.3],
 				"full_name": "科威特国",
 				"iso_a2": "KW",
 				"iso_a3": "KWT",
@@ -7954,6 +8212,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "科索沃",
+				"center": [20.9, 42.57],
+				"centroid": [20.9, 42.57],
 				"full_name": "科索沃",
 				"iso_a2": "XK",
 				"iso_a3": "-99",
@@ -7978,6 +8238,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "基里巴斯",
+				"center": [175.71, 1.91],
+				"centroid": [175.71, 1.91],
 				"full_name": "基里巴斯共和国",
 				"iso_a2": "KI",
 				"iso_a3": "KIR",
@@ -7999,6 +8261,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "肯尼亚",
+				"center": [37.73, -0.07],
+				"centroid": [37.73, -0.07],
 				"full_name": "肯尼亚共和国",
 				"iso_a2": "KE",
 				"iso_a3": "KEN",
@@ -8039,6 +8303,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "哈萨克斯坦",
+				"center": [67.27, 48.55],
+				"centroid": [67.27, 48.55],
 				"full_name": "哈萨克斯坦共和国",
 				"iso_a2": "KZ",
 				"iso_a3": "KAZ",
@@ -8178,6 +8444,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "约旦",
+				"center": [36.16, 31.19],
+				"centroid": [36.16, 31.19],
 				"full_name": "约旦哈希姆王国",
 				"iso_a2": "JO",
 				"iso_a3": "JOR",
@@ -8209,6 +8477,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "日本",
+				"center": [138.16, 37.24],
+				"centroid": [138.16, 37.24],
 				"full_name": "日本国",
 				"iso_a2": "JP",
 				"iso_a3": "JPN",
@@ -8378,6 +8648,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "牙买加",
+				"center": [-77.31, 18.13],
+				"centroid": [-77.31, 18.13],
 				"full_name": "牙买加",
 				"iso_a2": "JM",
 				"iso_a3": "JAM",
@@ -8402,6 +8674,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "意大利",
+				"center": [12.07, 42.02],
+				"centroid": [12.07, 42.02],
 				"full_name": "意大利共和国",
 				"iso_a2": "IT",
 				"iso_a3": "ITA",
@@ -8502,6 +8776,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "以色列",
+				"center": [34.95, 31.52],
+				"centroid": [34.95, 31.52],
 				"full_name": "以色列国",
 				"iso_a2": "IL",
 				"iso_a3": "ISR",
@@ -8534,6 +8810,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴勒斯坦",
+				"center": [35.17, 31.87],
+				"centroid": [35.17, 31.87],
 				"full_name": "巴勒斯坦国",
 				"iso_a2": "PS",
 				"iso_a3": "PSE",
@@ -8568,6 +8846,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "爱尔兰",
+				"center": [-7.65, 53.14],
+				"centroid": [-7.65, 53.14],
 				"full_name": "爱尔兰",
 				"iso_a2": "IE",
 				"iso_a3": "IRL",
@@ -8615,6 +8895,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "伊拉克",
+				"center": [43.68, 33.09],
+				"centroid": [43.68, 33.09],
 				"full_name": "伊拉克共和国",
 				"iso_a2": "IQ",
 				"iso_a3": "IRQ",
@@ -8659,6 +8941,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "伊朗",
+				"center": [53.39, 32.56],
+				"centroid": [53.39, 32.56],
 				"full_name": "伊朗伊斯兰共和国",
 				"iso_a2": "IR",
 				"iso_a3": "IRN",
@@ -8758,6 +9042,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "印度尼西亚",
+				"center": [113.95, -0.86],
+				"centroid": [113.95, -0.86],
 				"full_name": "印度尼西亚共和国",
 				"iso_a2": "ID",
 				"iso_a3": "IDN",
@@ -9510,6 +9796,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "印度",
+				"center": [79.68, 22.86],
+				"centroid": [79.68, 22.86],
 				"full_name": "印度共和国",
 				"iso_a2": "IN",
 				"iso_a3": "IND",
@@ -9717,6 +10005,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "冰岛",
+				"center": [-18.37, 64.97],
+				"centroid": [-18.37, 64.97],
 				"full_name": "冰岛共和国",
 				"iso_a2": "IS",
 				"iso_a3": "ISL",
@@ -9772,6 +10062,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "匈牙利",
+				"center": [19.35, 47.16],
+				"centroid": [19.35, 47.16],
 				"full_name": "匈牙利",
 				"iso_a2": "HU",
 				"iso_a3": "HUN",
@@ -9808,6 +10100,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "洪都拉斯",
+				"center": [-86.65, 14.82],
+				"centroid": [-86.65, 14.82],
 				"full_name": "洪都拉斯共和国",
 				"iso_a2": "HN",
 				"iso_a3": "HND",
@@ -9845,6 +10139,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "海地",
+				"center": [-72.21, 18.94],
+				"centroid": [-72.21, 18.94],
 				"full_name": "海地共和国",
 				"iso_a2": "HT",
 				"iso_a3": "HTI",
@@ -9876,6 +10172,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圭亚那",
+				"center": [-58.91, 4.76],
+				"centroid": [-58.91, 4.76],
 				"full_name": "圭亚那合作共和国",
 				"iso_a2": "GY",
 				"iso_a3": "GUY",
@@ -9926,6 +10224,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "几内亚比绍",
+				"center": [-14.57, 11.69],
+				"centroid": [-14.57, 11.69],
 				"full_name": "几内亚比绍共和国",
 				"iso_a2": "GW",
 				"iso_a3": "GNB",
@@ -9959,6 +10259,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "几内亚",
+				"center": [-10.95, 10.44],
+				"centroid": [-10.95, 10.44],
 				"full_name": "几内亚共和国",
 				"iso_a2": "GN",
 				"iso_a3": "GIN",
@@ -10022,6 +10324,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "危地马拉",
+				"center": [-90.31, 15.65],
+				"centroid": [-90.31, 15.65],
 				"full_name": "危地马拉共和国",
 				"iso_a2": "GT",
 				"iso_a3": "GTM",
@@ -10056,6 +10360,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "格林纳达",
+				"center": [-61.68, 12.11],
+				"centroid": [-61.68, 12.11],
 				"full_name": "格林纳达",
 				"iso_a2": "GD",
 				"iso_a3": "GRD",
@@ -10077,6 +10383,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "希腊",
+				"center": [22.13, 39.02],
+				"centroid": [22.13, 39.02],
 				"full_name": "希腊共和国",
 				"iso_a2": "GR",
 				"iso_a3": "GRC",
@@ -10213,6 +10521,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "加纳",
+				"center": [-1.21, 7.96],
+				"centroid": [-1.21, 7.96],
 				"full_name": "加纳共和国",
 				"iso_a2": "GH",
 				"iso_a3": "GHA",
@@ -10252,6 +10562,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "德国",
+				"center": [10.38, 51.11],
+				"centroid": [10.38, 51.11],
 				"full_name": "德意志联邦共和国",
 				"iso_a2": "DE",
 				"iso_a3": "DEU",
@@ -10334,6 +10646,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "格鲁吉亚",
+				"center": [43.5, 42.02],
+				"centroid": [43.5, 42.02],
 				"full_name": "格鲁吉亚",
 				"iso_a2": "GE",
 				"iso_a3": "GEO",
@@ -10371,6 +10685,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "冈比亚",
+				"center": [-15.39, 13.45],
+				"centroid": [-15.39, 13.45],
 				"full_name": "冈比亚共和国",
 				"iso_a2": "GM",
 				"iso_a3": "GMB",
@@ -10401,6 +10717,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "加蓬",
+				"center": [11.75, -0.52],
+				"centroid": [11.75, -0.52],
 				"full_name": "加蓬共和国",
 				"iso_a2": "GA",
 				"iso_a3": "GAB",
@@ -10457,6 +10775,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "法国",
+				"center": [2.19, 46.15],
+				"centroid": [2.19, 46.15],
 				"full_name": "法兰西共和国",
 				"iso_a2": "FR",
 				"iso_a3": "FRA",
@@ -10592,6 +10912,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣皮埃尔和密克隆群岛",
+				"center": [-56.17, 46.78],
+				"centroid": [-56.17, 46.78],
 				"full_name": "圣皮埃尔和密克隆群岛（法国）",
 				"iso_a2": "PM",
 				"iso_a3": "SPM",
@@ -10613,6 +10935,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "瓦利斯和富图纳群岛",
+				"center": [-178.12, -14.22],
+				"centroid": [-178.12, -14.22],
 				"full_name": "瓦利斯和富图纳群岛",
 				"iso_a2": "WF",
 				"iso_a3": "WLF",
@@ -10634,6 +10958,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "法属圣马丁",
+				"center": [-63.04, 18.06],
+				"centroid": [-63.04, 18.06],
 				"full_name": "法属圣马丁岛",
 				"iso_a2": "MF",
 				"iso_a3": "MAF",
@@ -10655,6 +10981,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣巴泰勒米",
+				"center": [-62.83, 17.9],
+				"centroid": [-62.83, 17.9],
 				"full_name": "圣巴泰勒米（法国）",
 				"iso_a2": "BL",
 				"iso_a3": "BLM",
@@ -10676,6 +11004,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "法属波利尼西亚",
+				"center": [-149.46, -17.63],
+				"centroid": [-149.46, -17.63],
 				"full_name": "法属波利尼西亚",
 				"iso_a2": "PF",
 				"iso_a3": "PYF",
@@ -10707,6 +11037,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "新喀里多尼亚",
+				"center": [165.38, -20.44],
+				"centroid": [165.38, -20.44],
 				"full_name": "新喀里多尼亚",
 				"iso_a2": "NC",
 				"iso_a3": "NCL",
@@ -10751,6 +11083,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "法属南部和南极领地",
+				"center": [50.0, -49.22],
+				"centroid": [50.0, -49.22],
 				"full_name": "法属南部和南极领地",
 				"iso_a2": "TF",
 				"iso_a3": "ATF",
@@ -10781,6 +11115,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "奥兰群岛",
+				"center": [19.95, 60.12],
+				"centroid": [19.95, 60.12],
 				"full_name": "奥兰群岛（芬兰）",
 				"iso_a2": "AX",
 				"iso_a3": "ALA",
@@ -10802,6 +11138,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "芬兰",
+				"center": [25.03, 63.12],
+				"centroid": [25.03, 63.12],
 				"full_name": "芬兰共和国",
 				"iso_a2": "FI",
 				"iso_a3": "FIN",
@@ -10854,6 +11192,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "斐济",
+				"center": [175.41, -16.48],
+				"centroid": [175.41, -16.48],
 				"full_name": "斐济共和国",
 				"iso_a2": "FJ",
 				"iso_a3": "FJI",
@@ -10892,6 +11232,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "埃塞俄比亚",
+				"center": [39.58, 9.07],
+				"centroid": [39.58, 9.07],
 				"full_name": "埃塞俄比亚联邦民主共和国",
 				"iso_a2": "ET",
 				"iso_a3": "ETH",
@@ -10949,6 +11291,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "爱沙尼亚",
+				"center": [25.51, 58.49],
+				"centroid": [25.51, 58.49],
 				"full_name": "爱沙尼亚共和国",
 				"iso_a2": "EE",
 				"iso_a3": "EST",
@@ -10998,6 +11342,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "厄立特里亚",
+				"center": [39.0, 15.31],
+				"centroid": [39.0, 15.31],
 				"full_name": "厄立特里亚国",
 				"iso_a2": "ER",
 				"iso_a3": "ERI",
@@ -11046,6 +11392,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "赤道几内亚",
+				"center": [9.56, 1.55],
+				"centroid": [9.56, 1.55],
 				"full_name": "赤道几内亚共和国",
 				"iso_a2": "GQ",
 				"iso_a3": "GNQ",
@@ -11080,6 +11428,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "萨尔瓦多",
+				"center": [-88.86, 13.77],
+				"centroid": [-88.86, 13.77],
 				"full_name": "萨尔瓦多共和国",
 				"iso_a2": "SV",
 				"iso_a3": "SLV",
@@ -11106,6 +11456,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "埃及",
+				"center": [29.36, 26.47],
+				"centroid": [29.36, 26.47],
 				"full_name": "阿拉伯埃及共和国",
 				"iso_a2": "EG",
 				"iso_a3": "EGY",
@@ -11156,6 +11508,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "厄瓜多尔",
+				"center": [-78.35, -1.44],
+				"centroid": [-78.35, -1.44],
 				"full_name": "厄瓜多尔共和国",
 				"iso_a2": "EC",
 				"iso_a3": "ECU",
@@ -11246,6 +11600,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "多米尼加",
+				"center": [-70.51, 18.7],
+				"centroid": [-70.51, 18.7],
 				"full_name": "多米尼加共和国",
 				"iso_a2": "DO",
 				"iso_a3": "DOM",
@@ -11278,6 +11634,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "多米尼克",
+				"center": [-61.37, 15.42],
+				"centroid": [-61.37, 15.42],
 				"full_name": "多米尼克国",
 				"iso_a2": "DM",
 				"iso_a3": "DMA",
@@ -11299,6 +11657,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "美国本土外小岛屿",
+				"center": [-166.65, 19.28],
+				"centroid": [-166.65, 19.28],
 				"full_name": "美国本土外小岛屿",
 				"iso_a2": "UM",
 				"iso_a3": "UMI",
@@ -11320,6 +11680,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "吉布提",
+				"center": [42.57, 11.56],
+				"centroid": [42.57, 11.56],
 				"full_name": "吉布提共和国",
 				"iso_a2": "DJ",
 				"iso_a3": "DJI",
@@ -11347,6 +11709,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "格陵兰",
+				"center": [-40.36, 74.71],
+				"centroid": [-40.36, 74.71],
 				"full_name": "格陵兰",
 				"iso_a2": "GL",
 				"iso_a3": "GRL",
@@ -11672,6 +12036,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "法罗群岛",
+				"center": [-6.87, 62.05],
+				"centroid": [-6.87, 62.05],
 				"full_name": "法罗群岛（丹麦）",
 				"iso_a2": "FO",
 				"iso_a3": "FRO",
@@ -11693,6 +12059,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "丹麦",
+				"center": [9.31, 55.97],
+				"centroid": [9.31, 55.97],
 				"full_name": "丹麦王国",
 				"iso_a2": "DK",
 				"iso_a3": "DNK",
@@ -11754,6 +12122,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "捷克",
+				"center": [14.42, 50.08],
+				"centroid": [15.33, 49.78],
 				"full_name": "捷克共和国",
 				"iso_a2": "CZ",
 				"iso_a3": "CZE",
@@ -11789,6 +12159,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "北塞浦路斯",
+				"center": [33.51, 35.15],
+				"centroid": [33.51, 35.15],
 				"full_name": "北塞浦路斯土耳其共和国",
 				"iso_a2": "-99",
 				"iso_a3": "-99",
@@ -11811,6 +12183,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "塞浦路斯",
+				"center": [33.01, 35.09],
+				"centroid": [33.01, 35.09],
 				"full_name": "塞浦路斯共和国",
 				"iso_a2": "CY",
 				"iso_a3": "CYP",
@@ -11833,6 +12207,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "古巴",
+				"center": [-79.06, 21.62],
+				"centroid": [-79.06, 21.62],
 				"full_name": "古巴共和国",
 				"iso_a2": "CU",
 				"iso_a3": "CUB",
@@ -11891,6 +12267,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "克罗地亚",
+				"center": [15.11, 44.9],
+				"centroid": [15.11, 44.9],
 				"full_name": "克罗地亚共和国",
 				"iso_a2": "HR",
 				"iso_a3": "HRV",
@@ -11949,6 +12327,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "科特迪瓦",
+				"center": [-5.55, 7.56],
+				"centroid": [-5.55, 7.56],
 				"full_name": "科特迪瓦共和国",
 				"iso_a2": "CI",
 				"iso_a3": "CIV",
@@ -11997,6 +12377,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "哥斯达黎加",
+				"center": [-83.83, 9.98],
+				"centroid": [-83.83, 9.98],
 				"full_name": "哥斯达黎加共和国",
 				"iso_a2": "CR",
 				"iso_a3": "CRI",
@@ -12038,6 +12420,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "刚果（金）",
+				"center": [25.21, -2.89],
+				"centroid": [25.21, -2.89],
 				"full_name": "刚果民主共和国",
 				"iso_a2": "CD",
 				"iso_a3": "COD",
@@ -12125,6 +12509,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "刚果（布）",
+				"center": [15.21, -0.57],
+				"centroid": [15.21, -0.57],
 				"full_name": "刚果共和国",
 				"iso_a2": "CG",
 				"iso_a3": "COG",
@@ -12182,6 +12568,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "科摩罗",
+				"center": [43.3, -11.67],
+				"centroid": [43.3, -11.67],
 				"full_name": "科摩罗联盟",
 				"iso_a2": "KM",
 				"iso_a3": "COM",
@@ -12213,6 +12601,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "哥伦比亚",
+				"center": [-73.08, 2.9],
+				"centroid": [-73.08, 2.9],
 				"full_name": "哥伦比亚共和国",
 				"iso_a2": "CO",
 				"iso_a3": "COL",
@@ -12300,536 +12690,6 @@
 				]
 			}
 		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "中国",
-				"full_name": "中华人民共和国",
-				"iso_a2": "CN",
-				"iso_a3": "CHN",
-				"iso_n3": "156"
-			},
-			"geometry": {
-				"type": "MultiPolygon",
-				"coordinates": [
-					[
-						[
-							[107.972656, 21.507959],
-							[108.502148, 21.633447],
-							[108.479883, 21.904639],
-							[109.081543, 21.440283],
-							[109.521484, 21.693408],
-							[109.930762, 21.480566],
-							[109.662598, 20.916895],
-							[110.123145, 20.263721],
-							[110.517578, 20.46001],
-							[110.154004, 20.944629],
-							[110.410937, 21.338135],
-							[110.567187, 21.214062],
-							[111.602734, 21.559082],
-							[111.943945, 21.849658],
-							[112.30498, 21.741699],
-							[112.359668, 21.978027],
-							[112.586328, 21.776855],
-							[113.08877, 22.207959],
-							[113.548145, 22.222607],
-							[113.331055, 22.912012],
-							[113.519727, 23.1021],
-							[114.01543, 22.511914],
-							[113.937305, 22.36499],
-							[114.267969, 22.295557],
-							[114.266016, 22.540967],
-							[116.470703, 22.945898],
-							[116.910645, 23.64668],
-							[117.367676, 23.588623],
-							[118.056055, 24.246094],
-							[117.842676, 24.474316],
-							[118.657031, 24.621436],
-							[118.977539, 25.209277],
-							[119.285547, 25.232227],
-							[119.180078, 25.449805],
-							[119.622461, 25.391162],
-							[119.61875, 26.003564],
-							[119.139453, 26.121777],
-							[119.463086, 26.054688],
-							[119.881055, 26.33418],
-							[119.588184, 26.784961],
-							[120.086719, 26.671582],
-							[120.747656, 28.009961],
-							[121.145703, 28.32666],
-							[121.609961, 28.292139],
-							[121.487109, 29.193164],
-							[121.917773, 29.13501],
-							[121.941211, 29.605908],
-							[121.50625, 29.48457],
-							[122.08291, 29.870361],
-							[121.258008, 30.304102],
-							[120.194629, 30.241309],
-							[121.87793, 30.916992],
-							[120.715527, 31.98374],
-							[120.035937, 31.936279],
-							[120.520117, 32.105859],
-							[121.856348, 31.816455],
-							[120.853223, 32.661377],
-							[120.266699, 34.274023],
-							[119.165332, 34.848828],
-							[120.284766, 35.984424],
-							[120.183301, 36.202441],
-							[120.637891, 36.129932],
-							[120.81084, 36.632812],
-							[121.932715, 36.959473],
-							[122.340918, 36.832227],
-							[122.666992, 37.402832],
-							[121.640234, 37.460352],
-							[120.75, 37.833936],
-							[119.760547, 37.155078],
-							[119.287402, 37.138281],
-							[118.952637, 37.331152],
-							[118.940039, 38.042773],
-							[117.766699, 38.31167],
-							[117.616699, 38.852881],
-							[117.865723, 39.19126],
-							[118.976953, 39.182568],
-							[119.391113, 39.75249],
-							[120.479102, 40.230957],
-							[121.174512, 40.90127],
-							[121.834863, 40.974268],
-							[122.275, 40.541846],
-							[121.26748, 39.544678],
-							[121.818457, 39.386523],
-							[121.106738, 38.920801],
-							[121.163574, 38.731641],
-							[122.840039, 39.60083],
-							[124.362109, 40.004053],
-							[125.989062, 40.904639],
-							[126.743066, 41.724854],
-							[128.149414, 41.387744],
-							[128.045215, 41.9875],
-							[128.923438, 42.038232],
-							[129.697852, 42.448145],
-							[129.898242, 42.998145],
-							[130.526953, 42.5354],
-							[130.424805, 42.727051],
-							[131.068555, 42.902246],
-							[131.257324, 43.378076],
-							[130.981641, 44.844336],
-							[131.851855, 45.326855],
-							[133.113477, 45.130713],
-							[134.167676, 47.302197],
-							[134.752344, 47.71543],
-							[134.665234, 48.253906],
-							[135.083406, 48.436324],
-							[134.293359, 48.373438],
-							[133.144043, 48.105664],
-							[132.47627, 47.71499],
-							[130.961914, 47.709326],
-							[130.553125, 48.861182],
-							[129.498145, 49.388818],
-							[127.550781, 49.801807],
-							[127.590234, 50.208984],
-							[125.649023, 53.042285],
-							[123.607813, 53.546533],
-							[120.985449, 53.28457],
-							[120.094531, 52.787207],
-							[120.656152, 52.56665],
-							[120.749805, 52.096533],
-							[119.163672, 50.406006],
-							[119.259863, 50.066406],
-							[117.873438, 49.513477],
-							[116.683301, 49.823779],
-							[115.616406, 47.874805],
-							[115.898242, 47.686914],
-							[116.760547, 47.869775],
-							[117.350781, 47.652197],
-							[117.768359, 47.987891],
-							[118.498438, 47.983984],
-							[119.711133, 47.15],
-							[119.867188, 46.672168],
-							[117.438086, 46.58623],
-							[117.333398, 46.362012],
-							[116.562598, 46.289795],
-							[115.681055, 45.458252],
-							[114.560156, 45.38999],
-							[113.587012, 44.745703],
-							[111.898047, 45.064062],
-							[111.402246, 44.367285],
-							[111.933203, 43.711426],
-							[110.400391, 42.773682],
-							[109.339844, 42.438379],
-							[106.77002, 42.288721],
-							[104.982031, 41.595508],
-							[104.498242, 41.658691],
-							[104.498242, 41.877002],
-							[103.711133, 41.751318],
-							[102.156641, 42.158105],
-							[101.495313, 42.53877],
-							[96.385449, 42.720361],
-							[95.350293, 44.278076],
-							[93.516211, 44.944482],
-							[90.877246, 45.196094],
-							[90.869922, 46.954492],
-							[90.02793, 47.877686],
-							[89.047656, 48.002539],
-							[87.979688, 48.555127],
-							[87.814258, 49.162305],
-							[87.322852, 49.085791],
-							[86.808301, 49.049707],
-							[86.549414, 48.528613],
-							[85.749414, 48.385059],
-							[85.484766, 47.063525],
-							[84.786133, 46.830713],
-							[83.029492, 47.185938],
-							[82.315234, 45.594922],
-							[82.521484, 45.125488],
-							[81.691992, 45.349365],
-							[79.871875, 44.883789],
-							[80.481543, 44.714648],
-							[80.355273, 44.097266],
-							[80.785742, 43.161572],
-							[80.202246, 42.734473],
-							[80.209375, 42.190039],
-							[78.123438, 41.075635],
-							[76.907715, 41.02417],
-							[76.318555, 40.352246],
-							[75.677148, 40.305811],
-							[75.555566, 40.625195],
-							[74.835156, 40.482617],
-							[73.991602, 40.043115],
-							[73.631641, 39.448877],
-							[73.80166, 38.606885],
-							[74.812305, 38.460303],
-							[75.11875, 37.385693],
-							[74.891309, 37.231641],
-							[74.372168, 37.157715],
-							[74.541406, 37.022168],
-							[75.772168, 36.694922],
-							[75.912305, 36.048975],
-							[76.766895, 35.661719],
-							[77.799414, 35.495898],
-							[78.042676, 35.479785],
-							[78.326953, 34.606396],
-							[78.970117, 34.302637],
-							[78.72666, 34.013379],
-							[79.219336, 32.501074],
-							[78.918945, 32.358203],
-							[78.700879, 32.597021],
-							[78.389648, 32.519873],
-							[78.807678, 31.099982],
-							[79.707774, 31.013593],
-							[81.010254, 30.164502],
-							[82.043359, 30.326758],
-							[83.583496, 29.183594],
-							[84.101367, 29.219971],
-							[84.228711, 28.911768],
-							[85.159082, 28.592236],
-							[85.122461, 28.315967],
-							[85.67832, 28.277441],
-							[85.994531, 27.9104],
-							[86.137012, 28.114355],
-							[87.141406, 27.83833],
-							[88.109766, 27.870605],
-							[88.803711, 28.006934],
-							[88.891406, 27.316064],
-							[89.981055, 28.311182],
-							[90.352734, 28.080225],
-							[91.273047, 28.078369],
-							[91.631934, 27.759961],
-							[91.594727, 27.557666],
-							[92.083398, 27.290625],
-							[91.99834, 26.85498],
-							[92.64698, 26.952656],
-							[93.111399, 26.880082],
-							[93.817265, 27.025183],
-							[94.277372, 27.58143],
-							[94.88592, 27.743098],
-							[95.28628, 27.939955],
-							[95.39715, 28.142259],
-							[95.832003, 28.295186],
-							[96.275479, 28.228241],
-							[97.086778, 27.7475],
-							[97.335156, 27.937744],
-							[97.322461, 28.217969],
-							[97.599219, 28.517041],
-							[98.061621, 28.185889],
-							[98.298828, 27.550098],
-							[98.651172, 27.572461],
-							[98.738477, 26.785742],
-							[98.65625, 25.863574],
-							[97.819531, 25.251855],
-							[97.583301, 24.774805],
-							[97.564551, 23.911035],
-							[98.835059, 24.121191],
-							[98.676758, 23.905078],
-							[98.86377, 23.19126],
-							[99.507129, 22.959131],
-							[99.192969, 22.125977],
-							[99.917676, 22.028027],
-							[100.147656, 21.480518],
-							[101.079785, 21.755859],
-							[101.138867, 21.56748],
-							[101.247852, 21.197314],
-							[101.800586, 21.212598],
-							[101.524512, 22.253662],
-							[101.73877, 22.495264],
-							[102.127441, 22.379199],
-							[102.470898, 22.750928],
-							[102.981934, 22.448242],
-							[103.32666, 22.769775],
-							[103.941504, 22.540088],
-							[105.275391, 23.345215],
-							[105.842969, 22.922803],
-							[106.780273, 22.778906],
-							[106.550391, 22.501367],
-							[106.663574, 21.978906],
-							[107.972656, 21.507959]
-						]
-					],
-					[
-						[
-							[110.88877, 19.991943],
-							[110.651758, 20.137744],
-							[109.263477, 19.882666],
-							[108.665527, 19.304102],
-							[108.701563, 18.535254],
-							[109.519336, 18.218262],
-							[110.067383, 18.447559],
-							[111.013672, 19.655469],
-							[110.88877, 19.991943]
-						]
-					],
-					[
-						[
-							[121.008789, 22.620361],
-							[121.397461, 23.17251],
-							[121.929004, 24.97373],
-							[121.593652, 25.275342],
-							[121.040625, 25.032812],
-							[120.132129, 23.65293],
-							[120.232813, 22.71792],
-							[120.839844, 21.925],
-							[121.008789, 22.620361]
-						]
-					],
-					[
-						[
-							[124.4751, 25.9358],
-							[124.4641, 25.8592],
-							[124.6536, 25.9111],
-							[124.5822, 25.9655],
-							[124.4751, 25.9358]
-						]
-					],
-					[
-						[
-							[123.7143, 26.0025],
-							[123.7967, 25.921],
-							[123.7198, 25.8716],
-							[123.5962, 25.921],
-							[123.7143, 26.0025]
-						]
-					],
-					[
-						[
-							[123.4946, 25.7554],
-							[123.5797, 25.6861],
-							[123.3325, 25.6192],
-							[123.2639, 25.6712],
-							[123.327, 25.7306],
-							[123.4946, 25.7554]
-						]
-					],
-					[
-						[
-							[116.769628, 20.771721],
-							[116.889736, 20.683284],
-							[116.749302, 20.600958],
-							[116.862635, 20.588633],
-							[116.925461, 20.726949],
-							[116.769628, 20.771721]
-						]
-					],
-					[
-						[
-							[111.7447, 16.552],
-							[111.7886, 16.5125],
-							[111.7392, 16.4598],
-							[111.7447, 16.552]
-						]
-					],
-					[
-						[
-							[111.8134, 16.2621],
-							[111.8161, 16.2252],
-							[111.5689, 16.1619],
-							[111.662292, 16.260163],
-							[111.8134, 16.2621]
-						]
-					],
-					[
-						[
-							[112.6126, 16.059],
-							[112.4753, 16.0009],
-							[112.4615, 16.0432],
-							[112.6126, 16.059]
-						]
-					],
-					[
-						[
-							[113.896887, 7.607204],
-							[114.058879, 7.537794],
-							[114.368696, 7.638642],
-							[114.540543, 7.945783],
-							[113.896887, 7.607204]
-						]
-					],
-					[
-						[
-							[109.463972, 7.344339],
-							[109.948716, 7.522962],
-							[109.653065, 7.559745],
-							[109.463972, 7.344339]
-						]
-					],
-					[
-						[
-							[116.48876, 10.395686],
-							[116.467202, 10.309144],
-							[116.644592, 10.335051],
-							[116.48876, 10.395686]
-						]
-					],
-					[
-						[
-							[122.518653, 23.460785],
-							[122.798614, 24.573674],
-							[122.779218, 24.578553],
-							[122.499257, 23.465664],
-							[122.518653, 23.460785]
-						]
-					],
-					[
-						[
-							[121.172026, 20.805459],
-							[121.909388, 21.687433],
-							[121.894044, 21.700262],
-							[121.156682, 20.818287],
-							[121.172026, 20.805459]
-						]
-					],
-					[
-						[
-							[119.473662, 18.007073],
-							[120.025697, 19.024038],
-							[120.00812, 19.033579],
-							[119.456084, 18.016614],
-							[119.473662, 18.007073]
-						]
-					],
-					[
-						[
-							[119.072182, 15.007514],
-							[119.072676, 16.043885],
-							[119.052676, 16.043885],
-							[119.052184, 15.00781],
-							[119.072182, 15.007514]
-						]
-					],
-					[
-						[
-							[118.686467, 11.189592],
-							[118.524042, 10.912566],
-							[118.540436, 10.90292],
-							[118.704762, 11.181475],
-							[118.874599, 11.607472],
-							[118.98895, 11.985731],
-							[118.969805, 11.991519],
-							[118.855579, 11.613671],
-							[118.686467, 11.189592]
-						]
-					],
-					[
-						[
-							[115.544669, 7.146723],
-							[116.250486, 7.979279],
-							[116.23523, 7.992212],
-							[115.529413, 7.159656],
-							[115.544669, 7.146723]
-						]
-					],
-					[
-						[
-							[112.307052, 3.534873],
-							[111.786901, 3.416873],
-							[111.791326, 3.397368],
-							[112.312489, 3.515623],
-							[112.521474, 3.578591],
-							[112.852064, 3.732569],
-							[112.843614, 3.750696],
-							[112.515016, 3.597533],
-							[112.307052, 3.534873]
-						]
-					],
-					[
-						[
-							[108.290133, 6.012663],
-							[108.308786, 6.019877],
-							[108.279563, 6.095434],
-							[108.256117, 6.227526],
-							[108.2168, 6.538165],
-							[108.218763, 6.949641],
-							[108.244195, 7.073907],
-							[108.224601, 7.077917],
-							[108.198768, 6.950725],
-							[108.196797, 6.537606],
-							[108.236307, 6.224768],
-							[108.26004, 6.090984],
-							[108.290133, 6.012663]
-						]
-					],
-					[
-						[
-							[110.128228, 11.368945],
-							[110.055537, 11.253354],
-							[110.072467, 11.242707],
-							[110.145887, 11.359542],
-							[110.207005, 11.481288],
-							[110.259018, 11.604996],
-							[110.304569, 11.783642],
-							[110.328228, 11.945713],
-							[110.334243, 12.141598],
-							[110.332274, 12.240384],
-							[110.312278, 12.239982],
-							[110.314245, 12.141953],
-							[110.308355, 11.948035],
-							[110.284855, 11.787051],
-							[110.239823, 11.610665],
-							[110.188981, 11.489964],
-							[110.128228, 11.368945]
-						]
-					],
-					[
-						[
-							[109.845225, 15.153166],
-							[109.864809, 15.157224],
-							[109.848892, 15.233933],
-							[109.789745, 15.450683],
-							[109.690053, 15.675484],
-							[109.591475, 15.836774],
-							[109.532015, 15.922592],
-							[109.30888, 16.207258],
-							[109.29314, 16.194919],
-							[109.515744, 15.910958],
-							[109.57456, 15.826099],
-							[109.672646, 15.665615],
-							[109.77065, 15.444688],
-							[109.829516, 15.228968],
-							[109.845225, 15.153166]
-						]
-					]
-				]
-			}
-		},
-
 		{
 			"type": "Feature",
 			"properties": {
@@ -13383,6 +13243,7 @@
 				"adcode": 130000,
 				"name": "河北省",
 				"center": [114.502461, 38.045474],
+				"centroid": [114.502461, 38.045474],
 				"childrenNum": 11,
 				"level": "province",
 				"parent": { "adcode": 100000 },
@@ -35028,6 +34889,7 @@
 				"adcode": 620000,
 				"name": "甘肃省",
 				"center": [103.823557, 36.058039],
+				"centroid": [103.823557, 36.058039],
 				"childrenNum": 14,
 				"level": "province",
 				"parent": { "adcode": 100000 },
@@ -39740,7 +39602,13 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "name": "", "adchar": "JD", "adcode": "100000_JD" },
+			"properties": {
+				"name": "海南诸岛边界线",
+				"center": [114.456111, 12.912315],
+				"centroid": [114.456111, 12.912315],
+				"adchar": "JD",
+				"adcode": "100000_JD"
+			},
 			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
@@ -40081,6 +39949,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "智利",
+				"center": [-70.55, -30.41],
+				"centroid": [-70.55, -30.41],
 				"full_name": "智利共和国",
 				"iso_a2": "CL",
 				"iso_a3": "CHL",
@@ -40440,6 +40310,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "乍得",
+				"center": [18.48, 15.36],
+				"centroid": [18.48, 15.36],
 				"full_name": "乍得共和国",
 				"iso_a2": "TD",
 				"iso_a3": "TCD",
@@ -40501,6 +40373,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "中非",
+				"center": [20.49, 6.49],
+				"centroid": [20.49, 6.49],
 				"full_name": "中非共和国",
 				"iso_a2": "CF",
 				"iso_a3": "CAF",
@@ -40558,6 +40432,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "佛得角",
+				"center": [-24.07, 15.09],
+				"centroid": [-24.07, 15.09],
 				"full_name": "佛得角共和国",
 				"iso_a2": "CV",
 				"iso_a3": "CPV",
@@ -40597,6 +40473,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "加拿大",
+				"center": [-95.41, 56.87],
+				"centroid": [-95.41, 56.87],
 				"full_name": "加拿大",
 				"iso_a2": "CA",
 				"iso_a3": "CAN",
@@ -42027,6 +41905,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "喀麦隆",
+				"center": [12.75, 5.67],
+				"centroid": [12.75, 5.67],
 				"full_name": "喀麦隆共和国",
 				"iso_a2": "CM",
 				"iso_a3": "CMR",
@@ -42084,6 +41964,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "柬埔寨",
+				"center": [104.55, 12.54],
+				"centroid": [104.55, 12.54],
 				"full_name": "柬埔寨王国",
 				"iso_a2": "KH",
 				"iso_a3": "KHM",
@@ -42126,6 +42008,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "缅甸",
+				"center": [96.08, 21.71],
+				"centroid": [96.08, 21.71],
 				"full_name": "缅甸联邦共和国",
 				"iso_a2": "MM",
 				"iso_a3": "MMR",
@@ -42253,6 +42137,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "布隆迪",
+				"center": [29.94, -3.38],
+				"centroid": [29.94, -3.38],
 				"full_name": "布隆迪共和国",
 				"iso_a2": "BI",
 				"iso_a3": "BDI",
@@ -42280,6 +42166,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "布基纳法索",
+				"center": [-1.76, 12.27],
+				"centroid": [-1.76, 12.27],
 				"full_name": "布基纳法索",
 				"iso_a2": "BF",
 				"iso_a3": "BFA",
@@ -42327,6 +42215,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "保加利亚",
+				"center": [23.31, 42.66],
+				"centroid": [23.31, 42.66],
 				"full_name": "保加利亚共和国",
 				"iso_a2": "BG",
 				"iso_a3": "BGR",
@@ -42364,6 +42254,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "文莱",
+				"center": [114.65, 4.43],
+				"centroid": [114.65, 4.43],
 				"full_name": "文莱达鲁萨兰国",
 				"iso_a2": "BN",
 				"iso_a3": "BRN",
@@ -42396,6 +42288,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴西",
+				"center": [-51.79, -10.34],
+				"centroid": [-51.79, -10.34],
 				"full_name": "巴西联邦共和国",
 				"iso_a2": "BR",
 				"iso_a3": "BRA",
@@ -42670,6 +42564,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "博茨瓦纳",
+				"center": [23.77, -22.19],
+				"centroid": [23.77, -22.19],
 				"full_name": "博茨瓦纳共和国",
 				"iso_a2": "BW",
 				"iso_a3": "BWA",
@@ -42715,6 +42611,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "波黑",
+				"center": [17.78, 44.16],
+				"centroid": [17.78, 44.16],
 				"full_name": "波斯尼亚和黑塞哥维那",
 				"iso_a2": "BA",
 				"iso_a3": "BIH",
@@ -42748,6 +42646,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "玻利维亚",
+				"center": [-64.65, -16.74],
+				"centroid": [-64.65, -16.74],
 				"full_name": "多民族玻利维亚国",
 				"iso_a2": "BO",
 				"iso_a3": "BOL",
@@ -42817,6 +42717,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "不丹",
+				"center": [90.33, 27.43],
+				"centroid": [90.33, 27.43],
 				"full_name": "不丹王国",
 				"iso_a2": "BT",
 				"iso_a3": "BTN",
@@ -42845,6 +42747,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "贝宁",
+				"center": [2.31, 9.55],
+				"centroid": [2.31, 9.55],
 				"full_name": "贝宁共和国",
 				"iso_a2": "BJ",
 				"iso_a3": "BEN",
@@ -42881,6 +42785,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "伯利兹",
+				"center": [-88.31, 17.2],
+				"centroid": [-88.31, 17.2],
 				"full_name": "伯利兹",
 				"iso_a2": "BZ",
 				"iso_a3": "BLZ",
@@ -42905,6 +42811,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "比利时",
+				"center": [4.64, 50.65],
+				"centroid": [4.64, 50.65],
 				"full_name": "比利时王国",
 				"iso_a2": "BE",
 				"iso_a3": "BEL",
@@ -42940,6 +42848,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "白俄罗斯",
+				"center": [27.56, 53.52],
+				"centroid": [27.56, 53.52],
 				"full_name": "白俄罗斯共和国",
 				"iso_a2": "BY",
 				"iso_a3": "BLR",
@@ -42992,6 +42902,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴巴多斯",
+				"center": [-59.37, 13.14],
+				"centroid": [-59.37, 13.14],
 				"full_name": "巴巴多斯",
 				"iso_a2": "BB",
 				"iso_a3": "BRB",
@@ -43013,6 +42925,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "孟加拉国",
+				"center": [90.26, 23.84],
+				"centroid": [90.26, 23.84],
 				"full_name": "孟加拉人民共和国",
 				"iso_a2": "BD",
 				"iso_a3": "BGD",
@@ -43085,6 +42999,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴林",
+				"center": [50.47, 25.84],
+				"centroid": [50.47, 25.84],
 				"full_name": "巴林王国",
 				"iso_a2": "BH",
 				"iso_a3": "BHR",
@@ -43106,6 +43022,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "巴哈马",
+				"center": [-76.42, 24.66],
+				"centroid": [-76.42, 24.66],
 				"full_name": "巴哈马国",
 				"iso_a2": "BS",
 				"iso_a3": "BHS",
@@ -43192,6 +43110,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿塞拜疆",
+				"center": [47.09, 40.29],
+				"centroid": [47.09, 40.29],
 				"full_name": "阿塞拜疆共和国",
 				"iso_a2": "AZ",
 				"iso_a3": "AZE",
@@ -43243,6 +43163,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "奥地利",
+				"center": [14.12, 47.59],
+				"centroid": [14.12, 47.59],
 				"full_name": "奥地利共和国",
 				"iso_a2": "AT",
 				"iso_a3": "AUT",
@@ -43285,6 +43207,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "澳大利亚",
+				"center": [133.73, -24.72],
+				"centroid": [133.73, -24.72],
 				"full_name": "澳大利亚联邦",
 				"iso_a2": "AU",
 				"iso_a3": "AUS",
@@ -43583,6 +43507,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "圣诞岛",
+				"center": [105.52, -10.42],
+				"centroid": [105.52, -10.42],
 				"full_name": "圣诞岛（澳大利亚）",
 				"iso_a2": "CX",
 				"iso_a3": "CXR",
@@ -43604,6 +43530,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "赫德岛和麦克唐纳群岛",
+				"center": [73.81, -53.08],
+				"centroid": [73.81, -53.08],
 				"full_name": "赫德岛和麦克唐纳群岛",
 				"iso_a2": "HM",
 				"iso_a3": "HMD",
@@ -43625,6 +43553,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "诺福克岛",
+				"center": [168.0, -29.02],
+				"centroid": [168.0, -29.02],
 				"full_name": "诺福克岛（澳大利亚）",
 				"iso_a2": "NF",
 				"iso_a3": "NFK",
@@ -43646,6 +43576,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿什莫尔和卡捷群岛",
+				"center": [121.62, -12.41],
+				"centroid": [121.62, -12.41],
 				"full_name": "阿什莫尔和卡捷群岛（澳大利亚）",
 				"iso_a2": "AU",
 				"iso_a3": "AUS",
@@ -43667,6 +43599,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "亚美尼亚",
+				"center": [44.92, 40.3],
+				"centroid": [44.92, 40.3],
 				"full_name": "亚美尼亚共和国",
 				"iso_a2": "AM",
 				"iso_a3": "ARM",
@@ -43697,6 +43631,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿根廷",
+				"center": [-64.14, -35.39],
+				"centroid": [-64.14, -35.39],
 				"full_name": "阿根廷共和国",
 				"iso_a2": "AR",
 				"iso_a3": "ARG",
@@ -43848,6 +43784,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "安提瓜和巴布达",
+				"center": [-61.77, 17.07],
+				"centroid": [-61.77, 17.07],
 				"full_name": "安提瓜和巴布达",
 				"iso_a2": "AG",
 				"iso_a3": "ATG",
@@ -43869,6 +43807,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "安哥拉",
+				"center": [17.54, -12.26],
+				"centroid": [17.54, -12.26],
 				"full_name": "安哥拉共和国",
 				"iso_a2": "AO",
 				"iso_a3": "AGO",
@@ -43930,6 +43870,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "安道尔",
+				"center": [1.51, 42.54],
+				"centroid": [1.51, 42.54],
 				"full_name": "安道尔公国",
 				"iso_a2": "AD",
 				"iso_a3": "AND",
@@ -43951,6 +43893,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿尔及利亚",
+				"center": [2.67, 28.08],
+				"centroid": [2.67, 28.08],
 				"full_name": "阿尔及利亚民主人民共和国",
 				"iso_a2": "DZ",
 				"iso_a3": "DZA",
@@ -44013,6 +43957,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿尔巴尼亚",
+				"center": [20.04, 41.05],
+				"centroid": [20.04, 41.05],
 				"full_name": "阿尔巴尼亚共和国",
 				"iso_a2": "AL",
 				"iso_a3": "ALB",
@@ -44041,6 +43987,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "阿富汗",
+				"center": [66.02, 33.63],
+				"centroid": [66.02, 33.63],
 				"full_name": "阿富汗",
 				"iso_a2": "AF",
 				"iso_a3": "AFG",
@@ -44116,6 +44064,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "锡亚琴冰川",
+				"center": [76.85, 35.2],
+				"centroid": [76.85, 35.2],
 				"full_name": "锡亚琴冰川",
 				"iso_a2": "-99",
 				"iso_a3": "-99",
@@ -44137,6 +44087,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "南极洲",
+				"center": [180.0, -84.66],
+				"centroid": [0.0, -75.25],
 				"full_name": "南极洲",
 				"iso_a2": "AQ",
 				"iso_a3": "ATA",
@@ -44925,6 +44877,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "荷属圣马丁",
+				"center": [-63.06, 18.06],
+				"centroid": [-63.06, 18.06],
 				"full_name": "荷属圣马丁岛",
 				"iso_a2": "SX",
 				"iso_a3": "SXM",
@@ -44946,6 +44900,8 @@
 			"type": "Feature",
 			"properties": {
 				"name": "图瓦卢",
+				"center": [179.15, -8.51],
+				"centroid": [179.15, -8.51],
 				"full_name": "图瓦卢",
 				"iso_a2": "TV",
 				"iso_a3": "TUV",
